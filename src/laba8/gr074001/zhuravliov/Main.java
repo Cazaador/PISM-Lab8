@@ -14,5 +14,7 @@ public class Main {
         stringArray.add("ТУТУРУРУ");
 
         stringArray.print();
+
+        NewClass.function();
     }
 }
