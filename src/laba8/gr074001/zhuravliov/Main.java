@@ -11,6 +11,7 @@ public class Main {
         stringArray.add("Привет");
         stringArray.add("Андрей");
         stringArray.add("ТУТУРУРУ");
+        stringArray.add("ТУТУРУРУ");
 
         stringArray.print();
     }
