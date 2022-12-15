@@ -16,5 +16,6 @@ public class Main {
         stringArray.print();
 
         NewClass.function();
+        System.out.println("Test message");
     }
 }
